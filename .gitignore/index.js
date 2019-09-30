@@ -11,5 +11,5 @@ client.on("message", message =>{
     }
 });
 client.on("guildMemberRemove", user =>{
-    user.guild.channels.get("625008646996230164").send("Mince... " + user.user.username + " ne se plaît plus ici... :cry: ")
+    user.guild.channels.get("627932524953337868").send("Mince... " + user.user.username + " ne se plaît plus ici... :cry: ")
 })
